@@ -15,7 +15,7 @@ var printLetter1 = function () {
  
 
   
-return 'print the fourth letter in this string';
+return 'print the fourth letter in this string'[3];
 };
 /*
 Give back ("return") the input string "concatenated" with 
